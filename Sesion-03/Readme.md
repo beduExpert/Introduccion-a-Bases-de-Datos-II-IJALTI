@@ -1,6 +1,6 @@
-[`Introducción a Bases de Datos`](../README.md) > `Sesión 7`
+[`Introducción a Bases de Datos`](../README.md) > `Sesión 3`
 
-## Sesión 7: Agregaciones
+## Sesión 3: Agregaciones
 
 <img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
 <div style="text-align: justify;">
