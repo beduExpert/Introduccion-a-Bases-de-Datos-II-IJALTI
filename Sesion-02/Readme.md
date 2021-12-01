@@ -1,6 +1,6 @@
-[`Introducción a Bases de Datos`](../Readme.md) > `Sesión 6`
+[`Introducción a Bases de Datos`](../Readme.md) > `Sesión 2`
 
-## Sesión 6: Consultas en MongoDB
+## Sesión 2: Consultas en MongoDB
 
 <img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
 <div style="text-align: justify;">
