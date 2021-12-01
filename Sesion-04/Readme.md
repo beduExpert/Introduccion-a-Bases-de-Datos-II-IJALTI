@@ -7,7 +7,7 @@
 
 ### 1. Objetivos :dart: 
 
-- Resolver distintos retos mediante la creación de bases de datos y generación de consultas.
+- Resolver distintos retos mediante la creación de bases de datos y generación de consultas con MongoDB.
 
 ### 2. Contenido :blue_book:
 
