@@ -1,6 +1,6 @@
-[`Introducción a Bases de Datos`](../Readme.md) > `Sesión 8`
+[`Introducción a Bases de Datos`](../Readme.md) > `Sesión 4`
 
-## Sesión 8: *Query Competition*
+## Sesión 4: *Query Competition*
 
 <img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
 <div style="text-align: justify;">
